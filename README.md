@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 # 🧍 Prem chapagain
-###         🎓 Computer engineering student
-### 🎓 Diploma in computer
+####         🎓 Computer engineering student
+#### 🎓 Diploma in computer
 
 
-# ✔️ Interests
+# ✔️ Python Developer
+# ✔️ Cyber security 
+# ✔️ Data science
+# ✔️ 
