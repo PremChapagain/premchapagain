@@ -7,8 +7,8 @@
 ####         🎓 Computer engineering student
 #### 🎓 Diploma in computer
 
-
-# ✔️ Python Developer
-# ✔️ Cyber security 
-# ✔️ Data science
-# ✔️ 
+#  💻 Expertise
+#### ✔️ Python Developer
+#### ✔️ Cyber security 
+#### ✔️ Data science
+#### ✔️ machine learning
