@@ -4,7 +4,7 @@
 
 
 # 🧍 Prem chapagain
-####         🎓 Computer engineering student
+####         🎓 Computer Science student
 #### 🎓 Diploma in computer
 
 #  💻 Expertise
